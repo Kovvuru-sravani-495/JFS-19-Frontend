@@ -1,0 +1,22 @@
+/*element or type selector*/
+h1{
+    font-size:40px;
+}
+/*universal selector*/
+*{
+    font-size:30px;
+    font-family:"Roboto";
+
+}
+/*descendent slector*/
+div div{
+    font-size:20px;
+    font-style:itallic;
+    color:green;
+
+}
+/*child selector*/
+div>h4{
+    color:blueviolet;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
